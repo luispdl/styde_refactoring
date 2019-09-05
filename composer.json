@@ -1,0 +1,17 @@
+{
+    "name": "luisponce/refactoring",
+    "description": "Curso de Refactorizacion en Styde",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Ponce de Leon",
+            "email": "luis.p@geopagos.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
